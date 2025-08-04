@@ -1,4 +1,4 @@
-# PRODIGY_ML_3
+# PRODIGY_ML_03
 
 This repository holds the project for the third machine learning task of the Prodigy InfoTech internship.
 
